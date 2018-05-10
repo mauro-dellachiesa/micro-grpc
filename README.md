@@ -1,2 +1,2 @@
 # micro-grpc
-Micro with gRPC enabled
+Micro with gRPC enabled docker image
